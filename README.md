@@ -67,3 +67,11 @@ RESTful APIs use HTTP requests for CRUD operations:
   - Supports JSON and XML for data interchange.
   - Statelessness simplifies integration and scalability.
   - Lightweight architecture allows for rapid application development and testing.
+
+## Read More 🌟
+
+For a detailed guide, please visit our blog: [Rest-APis](https://medium.com/@butanijeel1/rest-apis-a-detailed-guide-db1e5ac0eb8b) 🌐
+
+Feel free to reach out with any questions or feedback! 🙌
+
+Happy reading! 📚✨
