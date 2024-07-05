@@ -9,6 +9,7 @@ A RESTful API (Representational State Transfer API) is an interface for exchangi
 
 ## 🔧 What is an API?
 An Application Programming Interface (API) defines rules for communication between software systems, enabling tasks like retrieving timesheet data for payroll processing.
+For a detailed guide, please visit our blog: [APis](https://github.com/venishaparmar/Understanding-APIs-Types-and-Working-) 🌐
 
 ## 🛠️ What is REST?
 REST (Representational State Transfer) is an architectural style that ensures high performance, reliability, and scalability in client-server communication. APIs designed with REST principles are called REST APIs or RESTful APIs.
